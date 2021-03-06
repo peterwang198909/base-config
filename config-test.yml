@@ -1,1 +1,2 @@
-
+config:
+  info: main branch,base-config/config-test.yml,version=1
